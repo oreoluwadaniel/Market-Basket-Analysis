@@ -20,7 +20,7 @@ The dataset comprises retail transactions, including:
 * CustomerID
 * Country
 
-##Tool: 
+## Tool: 
 R Programming Language
 
 ## Key Findings
