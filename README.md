@@ -20,9 +20,6 @@ The dataset comprises retail transactions, including:
 * CustomerID
 * Country
 
-## Tool: 
-R Programming Language
-
 ## Key Findings
 * By association rule, I identified product pairs frequently bought together with higher lift values.
 * Found out products like the "WHITE HANGING HEART T-LIGHT HOLDER" and "REGENCY CAKESTAND 3 TIER" have strong associations with other products, suggesting potential for effective cross-selling and bundling.
