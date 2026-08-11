@@ -301,4 +301,4 @@ By combining association rule mining with seasonal demand analysis, the project 
 
 ## Contact
 
-- Email: oluwafikayore@gmail.com
+- Email: danolatunji25@gmail.com
